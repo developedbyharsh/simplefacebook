@@ -1,0 +1,12 @@
+h1{
+	text-align:center;
+	margin:10px;
+	padding:10px;
+	border:20px solid #F3B590;
+	color:pink;
+
+}
+body{
+background-image:url("facebook.jpeg");
+background-size:cover;
+}
